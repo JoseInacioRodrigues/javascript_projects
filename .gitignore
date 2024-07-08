@@ -1,0 +1,14 @@
+**/.DS_Store
+*/.DS_Store
+.vscode
+data/*
+data_production/
+data_localhost/
+data_development/
+data_old/
+**/logs/**
+*.pyc
+**/*.pyc
+*/*.pyc
+**/__pycache__/**
+__pycache__/
